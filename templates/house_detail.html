@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>House Details</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='detail-style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">{{ house['Location'] }}</h1>
+        <div class="row">
+            <div class="col-md-6">
+               
+            </div>
+            <div class="col-md-6 detail-box">
+                <p><strong>Price:</strong> ${{ house['Price'] }}</p>
+                
+                <p><strong>Description:</strong> {{ house['Description'] }}</p>
+                <a href="/" class="btn btn-primary">Back to Home</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

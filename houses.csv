@@ -1,0 +1,101 @@
+id,Location,Price,Description,Image
+1,Beachfront,7581,A modern Beachfront house with Wi-Fi.,image_7.jpg
+2,Mountain View,8150,A cozy Mountain View house with Breakfast Included.,image_1.jpg
+3,Suburban,3025,A spacious Suburban house with Wi-Fi.,image_10.jpg
+4,Beachfront,4293,A cozy Beachfront house with Pool.,image_1.jpg
+5,Rural,6583,A modern Rural house with Pool.,image_1.jpg
+6,Rural,5262,A modern Rural house with Pool.,image_8.jpg
+7,City Center,5401,A cozy City Center house with Gym.,image_1.jpg
+8,City Center,7104,A spacious City Center house with Gym.,image_5.jpg
+9,City Center,2825,A modern City Center house with Breakfast Included.,image_3.jpg
+10,Suburban,5981,A modern Suburban house with Breakfast Included.,image_2.jpg
+11,Suburban,1175,A spacious Suburban house with Parking.,image_9.jpg
+12,Rural,7523,A spacious Rural house with Gym.,image_6.jpg
+13,City Center,8744,A spacious City Center house with Wi-Fi.,image_4.jpg
+14,Mountain View,330,A spacious Mountain View house with Breakfast Included.,image_6.jpg
+15,Mountain View,2068,A spacious Mountain View house with Breakfast Included.,image_6.jpg
+16,Suburban,5395,A spacious Suburban house with Pool.,image_2.jpg
+17,Beachfront,8958,A spacious Beachfront house with Gym.,image_1.jpg
+18,Rural,491,A spacious Rural house with Breakfast Included.,image_1.jpg
+19,Beachfront,6082,A cozy Beachfront house with Pool.,image_4.jpg
+20,Rural,6719,A spacious Rural house with Pool.,image_3.jpg
+21,Beachfront,4528,A spacious Beachfront house with Pool.,image_1.jpg
+22,City Center,4717,A spacious City Center house with Parking.,image_1.jpg
+23,Rural,9636,A cozy Rural house with Pool.,image_4.jpg
+24,City Center,8622,A spacious City Center house with Breakfast Included.,image_9.jpg
+25,Suburban,3129,A modern Suburban house with Parking.,image_9.jpg
+26,Mountain View,3653,A spacious Mountain View house with Parking.,image_5.jpg
+27,Mountain View,799,A cozy Mountain View house with Parking.,image_10.jpg
+28,Rural,3785,A modern Rural house with Gym.,image_1.jpg
+29,City Center,236,A modern City Center house with Parking.,image_6.jpg
+30,Rural,9894,A cozy Rural house with Wi-Fi.,image_2.jpg
+31,City Center,5423,A spacious City Center house with Pool.,image_7.jpg
+32,Mountain View,3049,A spacious Mountain View house with Wi-Fi.,image_2.jpg
+33,Mountain View,2357,A cozy Mountain View house with Wi-Fi.,image_10.jpg
+34,Rural,8559,A modern Rural house with Gym.,image_3.jpg
+35,Mountain View,7365,A cozy Mountain View house with Pool.,image_9.jpg
+36,Suburban,232,A modern Suburban house with Parking.,image_9.jpg
+37,Beachfront,3897,A modern Beachfront house with Parking.,image_1.jpg
+38,Suburban,295,A cozy Suburban house with Wi-Fi.,image_10.jpg
+39,Beachfront,5499,A modern Beachfront house with Wi-Fi.,image_2.jpg
+40,City Center,5829,A cozy City Center house with Gym.,image_4.jpg
+41,Beachfront,7743,A cozy Beachfront house with Wi-Fi.,image_2.jpg
+42,Mountain View,3242,A spacious Mountain View house with Parking.,image_3.jpg
+43,Mountain View,6136,A cozy Mountain View house with Wi-Fi.,image_7.jpg
+44,Suburban,5686,A modern Suburban house with Gym.,image_8.jpg
+45,City Center,1197,A modern City Center house with Wi-Fi.,image_6.jpg
+46,City Center,3634,A cozy City Center house with Pool.,image_7.jpg
+47,Suburban,347,A modern Suburban house with Pool.,image_6.jpg
+48,City Center,8955,A cozy City Center house with Pool.,image_7.jpg
+49,Beachfront,3546,A modern Beachfront house with Pool.,image_10.jpg
+50,Mountain View,2643,A modern Mountain View house with Breakfast Included.,image_6.jpg
+51,Beachfront,2832,A spacious Beachfront house with Wi-Fi.,image_3.jpg
+52,Suburban,1079,A spacious Suburban house with Wi-Fi.,image_6.jpg
+53,City Center,5279,A modern City Center house with Breakfast Included.,image_1.jpg
+54,Suburban,3760,A cozy Suburban house with Pool.,image_5.jpg
+55,Mountain View,7447,A spacious Mountain View house with Breakfast Included.,image_10.jpg
+56,Suburban,3898,A spacious Suburban house with Pool.,image_1.jpg
+57,Beachfront,993,A modern Beachfront house with Breakfast Included.,image_1.jpg
+58,City Center,7056,A cozy City Center house with Pool.,image_3.jpg
+59,Beachfront,3791,A spacious Beachfront house with Wi-Fi.,image_10.jpg
+60,City Center,3671,A spacious City Center house with Gym.,image_1.jpg
+61,Mountain View,6961,A modern Mountain View house with Wi-Fi.,image_2.jpg
+62,Suburban,7291,A cozy Suburban house with Breakfast Included.,image_4.jpg
+63,Beachfront,7903,A cozy Beachfront house with Wi-Fi.,image_2.jpg
+64,Beachfront,6960,A spacious Beachfront house with Gym.,image_9.jpg
+65,Suburban,225,A spacious Suburban house with Breakfast Included.,image_6.jpg
+66,Suburban,5918,A spacious Suburban house with Wi-Fi.,image_5.jpg
+67,Beachfront,9236,A spacious Beachfront house with Parking.,image_5.jpg
+68,Beachfront,3870,A cozy Beachfront house with Parking.,image_4.jpg
+69,City Center,4514,A modern City Center house with Breakfast Included.,image_7.jpg
+70,Beachfront,7525,A modern Beachfront house with Breakfast Included.,image_6.jpg
+71,Beachfront,5940,A spacious Beachfront house with Breakfast Included.,image_3.jpg
+72,Mountain View,4148,A modern Mountain View house with Wi-Fi.,image_10.jpg
+73,City Center,4532,A cozy City Center house with Parking.,image_3.jpg
+74,City Center,4837,A modern City Center house with Pool.,image_5.jpg
+75,Beachfront,5952,A spacious Beachfront house with Gym.,image_10.jpg
+76,Mountain View,9854,A cozy Mountain View house with Parking.,image_8.jpg
+77,Suburban,9789,A spacious Suburban house with Gym.,image_5.jpg
+78,Beachfront,7415,A spacious Beachfront house with Gym.,image_2.jpg
+79,Mountain View,8778,A cozy Mountain View house with Pool.,image_8.jpg
+80,Mountain View,2142,A spacious Mountain View house with Gym.,image_1.jpg
+81,Mountain View,4828,A modern Mountain View house with Gym.,image_5.jpg
+82,Mountain View,5777,A modern Mountain View house with Pool.,image_1.jpg
+83,Beachfront,3202,A spacious Beachfront house with Breakfast Included.,image_8.jpg
+84,City Center,9957,A spacious City Center house with Parking.,image_8.jpg
+85,Mountain View,3302,A cozy Mountain View house with Parking.,image_2.jpg
+86,Rural,5951,A spacious Rural house with Parking.,image_2.jpg
+87,Beachfront,3859,A modern Beachfront house with Breakfast Included.,image_2.jpg
+88,City Center,1824,A modern City Center house with Breakfast Included.,image_2.jpg
+89,Suburban,3960,A cozy Suburban house with Pool.,image_1.jpg
+90,Suburban,1677,A spacious Suburban house with Wi-Fi.,image_2.jpg
+91,Beachfront,7319,A modern Beachfront house with Parking.,image_10.jpg
+92,Mountain View,8614,A modern Mountain View house with Breakfast Included.,image_6.jpg
+93,Beachfront,4469,A modern Beachfront house with Breakfast Included.,image_7.jpg
+94,Beachfront,1892,A spacious Beachfront house with Gym.,image_4.jpg
+95,City Center,6816,A cozy City Center house with Breakfast Included.,image_7.jpg
+96,Suburban,5041,A modern Suburban house with Gym.,image_3.jpg
+97,Beachfront,3706,A spacious Beachfront house with Breakfast Included.,image_6.jpg
+98,Rural,5628,A modern Rural house with Wi-Fi.,image_1.jpg
+99,City Center,4982,A modern City Center house with Wi-Fi.,image_4.jpg
+100,City Center,2583,A modern City Center house with Parking.,image_1.jpg
